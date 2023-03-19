@@ -3,7 +3,8 @@ AUDIO-PROCESSOR
 Note: For any performance benchmarking the application should be run in release mode.
 simply add --release to any cargo command.
 
-> To test the program simply run cargo test --release
+> To test the program you will need to provide your own .wav files as Github does not allow hosting large files.
+> next simply run cargo test --release
 > After running the tests you can check the 'WavSilenceRemoval.log' file to check how quickly the program ran
 > for each wav file. 
 
