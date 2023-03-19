@@ -1,5 +1,5 @@
 AUDIO-PROCESSOR
-
+Disclaimer: This is not completed Software. This was simply a prototype to remove all silence from within a wav file.
 Note: For any performance benchmarking the application should be run in release mode.
 simply add --release to any cargo command.
 
